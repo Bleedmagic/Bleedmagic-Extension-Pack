@@ -3,7 +3,7 @@
 	"displayName": "Bleedmagic's Extension Pack",
 	"publisher": "Bleedmagic",
 	"description": "Extensions I use in my VS Code workspaces",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.93.0"
 	},
