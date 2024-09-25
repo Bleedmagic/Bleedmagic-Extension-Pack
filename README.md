@@ -1,5 +1,8 @@
 # Bleedmagic's Extension Pack
 
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Bleedmagic.bleedmagic-extension-pack?color=FF69B4&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Bleedmagic.bleedmagic-extension-pack)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/Bleedmagic.bleedmagic-extension-pack?color=FF69B4&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=Bleedmagic.bleedmagic-extension-pack&ssr=false#review-details)
+
 Welcome to **Bleedmagic's Extension Pack**, a collection of extensions tailored to boost productivity, enhance code quality, and streamline your workflow in Visual Studio Code.
 
 ## Overview
@@ -69,8 +72,6 @@ Here is a breakdown of the main categories of extensions in this pack:
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/).
 2. Go to the **Extensions** view by clicking on the Extensions icon in the Activity Bar on the side of the window or using the `Ctrl+Shift+X` shortcut.
 3. Search for **Bleedmagic's Extension Pack** and click **Install**.
-
-Alternatively, you can install directly via the CLI:
 
 ## Contributions
 
