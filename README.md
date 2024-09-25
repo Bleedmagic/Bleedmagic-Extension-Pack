@@ -72,10 +72,6 @@ Here is a breakdown of the main categories of extensions in this pack:
 
 Alternatively, you can install directly via the CLI:
 
-```bash
-code --install-extension bleedmagic-extension-pack
-```
-
 ## Contributions
 
 Feel free to open issues or submit pull requests for improvements or suggestions. Contributions are always welcome!
