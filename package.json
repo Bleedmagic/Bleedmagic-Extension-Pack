@@ -1,22 +1,30 @@
 {
 	"name": "bleedmagic-extension-pack",
 	"displayName": "Bleedmagic's Extension Pack",
+	"description": "Extensions I use in my VS Code workspaces!",
+	"version": "0.0.3",
 	"publisher": "Bleedmagic",
-	"description": "Extensions I use in my VS Code workspaces",
-	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.93.0"
 	},
+	"categories": [
+		"Other",
+		"Extension Packs"
+	],
+	"galleryBanner": {
+		"color": "#FF69B4",
+		"theme": "dark"
+	},
+	"icon": "logo.png",
+	"homepage": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/blob/main/README.md",
+	"bugs": {
+		"url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/issues"
+	},
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack"
 	},
-	"bugs": {
-		"url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/issues"
-	},
-	"categories": [
-		"Extension Packs"
-	],
 	"keywords": [
 		"Bleedmagic Extensions",
 		"Bleedmagic",
@@ -39,6 +47,7 @@
 		"chakrounanas.turbo-console-log",
 		"charliermarsh.ruff",
 		"christian-kohler.path-intellisense",
+		"chrmarti.regex",
 		"codeium.codeium",
 		"codezombiech.gitignore",
 		"ctcuff.font-preview",
