@@ -2,7 +2,7 @@
 	"name": "bleedmagic-extension-pack",
 	"displayName": "Bleedmagic's Extension Pack",
 	"description": "Extensions I use in my VS Code workspaces!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Bleedmagic",
 	"engines": {
 		"vscode": "^1.93.0"
@@ -64,13 +64,11 @@
     "deerawan.vscode-faker",
     "donjayamanne.githistory",
     "dossantosgabriel.linux-cheatsheet",
-    "dracula-theme.theme-dracula",
     "dzhavat.css-flexbox-cheatsheet",
     "dzhavat.git-cheatsheet",
     "eamodio.gitlens",
     "ecmel.vscode-html-css",
     "editorconfig.editorconfig",
-    "eliverlara.andromeda",
     "esbenp.prettier-vscode",
     "fabiospampinato.vscode-open-in-github",
     "firefox-devtools.vscode-firefox-debug",
