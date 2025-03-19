@@ -15,16 +15,6 @@ This extension pack contains a handpicked selection of VS Code extensions that I
 2. Go to the **Extensions** view by clicking on the Extensions icon in the Activity Bar on the side of the window or using the `Ctrl+Shift+X` shortcut.
 3. Search for **Bleedmagic's Extension Pack** and click **Install**.
 
-## Contributions
-
-Feel free to open issues or submit pull requests for improvements or suggestions. Contributions are always welcome!
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Happy coding!
-
-— Bleedmagic
