@@ -1,36 +1,36 @@
 {
-	"name": "bleedmagic-extension-pack",
-	"displayName": "Bleedmagic's Extension Pack",
-	"description": "Extensions I use in my VS Code workspaces!",
-	"version": "1.0.1",
-	"publisher": "Bleedmagic",
-	"engines": {
-		"vscode": "^1.93.0"
-	},
-	"categories": [
-		"Other",
-		"Extension Packs"
-	],
-	"galleryBanner": {
-		"color": "#FF69B4",
-		"theme": "dark"
-	},
-	"icon": "logo.png",
-	"homepage": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/blob/main/README.md",
-	"bugs": {
-		"url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/issues"
-	},
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack"
-	},
-	"keywords": [
-		"Bleedmagic Extensions",
-		"Bleedmagic",
-		"Extension Pack"
-	],
-	"extensionPack": [
+  "name": "bleedmagic-extension-pack",
+  "displayName": "Bleedmagic's Extension Pack",
+  "description": "Extensions I use in my VS Code workspaces!",
+  "version": "1.0.2",
+  "publisher": "Bleedmagic",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Other",
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "color": "#FF69B4",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "homepage": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack"
+  },
+  "keywords": [
+    "Bleedmagic Extensions",
+    "Bleedmagic",
+    "Extension Pack"
+  ],
+  "extensionPack": [
     "aaron-bond.better-comments",
     "adpyke.codesnap",
     "ahmadawais.shades-of-purple",
@@ -40,10 +40,13 @@
     "amiralizadeh9480.laravel-extra-intellisense",
     "anbuselvanrocky.bootstrap5-vscode",
     "antfu.goto-alias",
+    "austenc.tailwind-docs",
     "bierner.emojisense",
     "bierner.markdown-mermaid",
+    "bleedmagic.bleedmagic-extension-pack",
     "bmewburn.vscode-intelephense-client",
     "bodil.file-browser",
+    "bourhaouta.tailwindshades",
     "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
     "bradgashler.htmltagwrap",
     "bradlc.vscode-tailwindcss",
@@ -51,6 +54,7 @@
     "cardinal90.multi-cursor-case-preserve",
     "chakrounanas.turbo-console-log",
     "charliermarsh.ruff",
+    "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "chrmarti.regex",
     "codeium.codeium",
@@ -66,7 +70,6 @@
     "dossantosgabriel.linux-cheatsheet",
     "dzhavat.css-flexbox-cheatsheet",
     "dzhavat.git-cheatsheet",
-    "eamodio.gitlens",
     "ecmel.vscode-html-css",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
@@ -75,23 +78,22 @@
     "foam.foam-vscode",
     "formulahendry.code-runner",
     "geequlim.godot-tools",
-    "github.codespaces",
     "github.copilot",
     "github.copilot-chat",
     "github.remotehub",
-    "github.vscode-github-actions",
-    "github.vscode-pull-request-github",
+    "glitchbl.laravel-create-view",
     "golang.go",
     "grapecity.gc-excelviewer",
     "gruntfuggly.todo-tree",
     "hakcorp.php-awesome-snippets",
-    "hbenl.vscode-test-explorer",
     "hediet.vscode-drawio",
     "helixquar.randomeverything",
+    "heybourn.headwind",
     "htmlhint.vscode-htmlhint",
     "humao.rest-client",
     "huuums.vscode-fast-folder-structure",
     "ibm.output-colorizer",
+    "ihunte.laravel-blade-wrapper",
     "jakob101.relativepath",
     "james-yu.latex-workshop",
     "jannisx11.batch-rename-extension",
@@ -113,10 +115,13 @@
     "mechatroner.rainbow-csv",
     "meganrogge.template-string-converter",
     "mehedidracula.php-constructor",
+    "mehedidracula.php-namespace-resolver",
     "mhutchie.git-graph",
+    "mikestead.dotenv",
     "mkxml.vscode-filesize",
     "mongodb.mongodb-vscode",
     "monish.regexsnippets",
+    "mrchetan.phpstorm-parameter-hints-in-vscode",
     "ms-azuretools.vscode-docker",
     "ms-dotnettools.csdevkit",
     "ms-dotnettools.csharp",
@@ -138,29 +143,31 @@
     "ms-vscode.live-server",
     "ms-vscode.remote-explorer",
     "ms-vscode.remote-repositories",
-    "ms-vscode.test-adapter-converter",
     "ms-vsliveshare.vsliveshare",
+    "naoray.laravel-goto-components",
     "naumovs.color-highlight",
+    "neilbrayfield.php-docblocker",
     "nhedger.inertia",
     "njpwerner.autodocstring",
     "oderwat.indent-rainbow",
     "onecentlin.laravel-blade",
     "onecentlin.laravel5-snippets",
     "oracle.mysql-shell-for-vs-code",
+    "pgl.laravel-jump-controller",
     "pkief.material-icon-theme",
     "pkief.material-product-icons",
     "pomdtr.excalidraw-editor",
     "primafuture.open-php-html-js-in-browser",
+    "recca0120.vscode-phpunit",
     "redhat.java",
     "redhat.vscode-xml",
-    "redhat.vscode-yaml",
     "ritwickdey.liveserver",
+    "ryannaddy.laravel-artisan",
     "ryu1kn.partial-diff",
     "sdras.vue-vscode-snippets",
     "shd101wyy.markdown-preview-enhanced",
     "shufo.vscode-blade-formatter",
     "sibiraj-s.vscode-scss-formatter",
-    "sidthesloth.html5-boilerplate",
     "stivo.tailwind-fold",
     "sumneko.lua",
     "syler.sass-indented",
@@ -170,16 +177,11 @@
     "tomoki1207.pdf",
     "tyriar.luna-paint",
     "usernamehw.errorlens",
-    "visualstudioexptteam.vscodeintellicode",
-    "vscjava.vscode-java-debug",
-    "vscjava.vscode-java-dependency",
-    "vscjava.vscode-java-test",
     "vsls-contrib.gitdoc",
     "vue.volar",
-    "wmaurer.change-case",
     "xabikos.javascriptsnippets",
     "xdebug.php-debug",
     "yoavbls.pretty-ts-errors",
     "yzhang.markdown-all-in-one"
-	]
+  ]
 }

@@ -9,12 +9,6 @@ Welcome to **Bleedmagic's Extension Pack**, a collection of extensions tailored 
 
 This extension pack contains a handpicked selection of VS Code extensions that I use regularly in my projects. It covers a wide range of tools for different programming languages, development environments, and utilities, making it easier to set up a workspace with all the essential tools in one go.
 
-## Installation
-
-1. Download and install [Visual Studio Code](https://code.visualstudio.com/).
-2. Go to the **Extensions** view by clicking on the Extensions icon in the Activity Bar on the side of the window or using the `Ctrl+Shift+X` shortcut.
-3. Search for **Bleedmagic's Extension Pack** and click **Install**.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
