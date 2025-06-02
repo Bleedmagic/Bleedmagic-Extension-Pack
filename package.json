@@ -2,34 +2,37 @@
   "name": "bleedmagic-extension-pack",
   "displayName": "Bleedmagic's Extension Pack",
   "description": "Extensions I use in my VS Code workspaces!",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "Bleedmagic",
+  "author": {
+    "name": "Victor Vasquez"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
-  "categories": [
-    "Other",
-    "Extension Packs"
-  ],
   "galleryBanner": {
-    "color": "#FF69B4",
+    "color": "#3c3836",
     "theme": "dark"
-  },
-  "icon": "logo.png",
-  "homepage": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/blob/main/README.md",
-  "bugs": {
-    "url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/issues"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack"
   },
   "keywords": [
     "Bleedmagic Extensions",
     "Bleedmagic",
     "Extension Pack"
   ],
+  "categories": [
+    "Other",
+    "Extension Packs"
+  ],
+  "icon": "logo.png",
+  "homepage": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bleedmagic/Bleedmagic-Extension-Pack/issues"
+  },
   "extensionPack": [
     "aaron-bond.better-comments",
     "adpyke.codesnap",
@@ -74,7 +77,6 @@
     "eiminsasete.apacheconf-snippets",
     "esbenp.prettier-vscode",
     "fabiospampinato.vscode-open-in-github",
-    "firefox-devtools.vscode-firefox-debug",
     "foam.foam-vscode",
     "formulahendry.code-runner",
     "geequlim.godot-tools",
@@ -88,7 +90,6 @@
     "hakcorp.php-awesome-snippets",
     "hediet.vscode-drawio",
     "helixquar.randomeverything",
-    "heybourn.headwind",
     "hossaini.bootstrap-intellisense",
     "htmlhint.vscode-htmlhint",
     "humao.rest-client",
@@ -99,20 +100,16 @@
     "james-yu.latex-workshop",
     "jannisx11.batch-rename-extension",
     "jdinhlife.gruvbox",
-    "jeff-hykin.better-cpp-syntax",
     "jock.svg",
     "johnpapa.vscode-peacock",
-    "jorgeserrano.vscode-csharp-snippets",
     "josee9988.minifyall",
     "joy-yu.css-snippets",
     "katsute.code-background",
-    "kevinrose.vsc-python-indent",
     "kirozen.wordcounter",
     "kisstkondoros.vscode-gutter-preview",
     "lacroixdavid1.vscode-format-context-menu",
     "laravel.vscode-laravel",
     "leonardssh.vscord",
-    "llvm-vs-code-extensions.vscode-clangd",
     "mechatroner.rainbow-csv",
     "meganrogge.template-string-converter",
     "mehedidracula.php-constructor",
@@ -126,9 +123,6 @@
     "mrmlnc.vscode-apache",
     "ms-azuretools.vscode-containers",
     "ms-azuretools.vscode-docker",
-    "ms-dotnettools.csdevkit",
-    "ms-dotnettools.csharp",
-    "ms-dotnettools.vscode-dotnet-runtime",
     "ms-edgedevtools.vscode-edge-devtools",
     "ms-python.debugpy",
     "ms-python.python",
@@ -140,8 +134,6 @@
     "ms-toolsai.vscode-jupyter-slideshow",
     "ms-vscode-remote.remote-containers",
     "ms-vscode-remote.remote-wsl",
-    "ms-vscode.cmake-tools",
-    "ms-vscode.cpptools",
     "ms-vscode.live-server",
     "ms-vscode.powershell",
     "ms-vscode.remote-repositories",
@@ -174,13 +166,11 @@
     "stivo.tailwind-fold",
     "sumneko.lua",
     "syler.sass-indented",
-    "tamasfe.even-better-toml",
     "tecosaur.latex-utilities",
     "tombonnike.vscode-status-bar-format-toggle",
     "tomoki1207.pdf",
     "usernamehw.errorlens",
     "vsls-contrib.gistfs",
-    "vsls-contrib.gitdoc",
     "vue.volar",
     "xabikos.javascriptsnippets",
     "xdebug.php-debug",
